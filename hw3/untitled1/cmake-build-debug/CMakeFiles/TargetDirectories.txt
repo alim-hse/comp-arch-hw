@@ -1,0 +1,3 @@
+C:/Users/kawaiiuroboros/CLionProjects/prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kawaiiuroboros/CLionProjects/prime/cmake-build-debug/CMakeFiles/prime.dir
+C:/Users/kawaiiuroboros/CLionProjects/prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
